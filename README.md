@@ -1,7 +1,7 @@
 # 
 
 ## Model
-www.msaez.io/#/courses/cna-full/a9f87e40-d9ca-11ee-95c6-a5c7812f13e0/ops-deploy-my-app
+www.msaez.io/#/storming/modelforops-240320
 
 ## Before Running Services
 ### Make sure there is a Kafka server running
